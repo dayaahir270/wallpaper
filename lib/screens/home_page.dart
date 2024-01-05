@@ -6,7 +6,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as httpClient;
 
-import '../model/api_podel.dart';
+import '../model/api_model.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});
